@@ -107,7 +107,8 @@
         - 第一種文字，任意填
       2. type
         - 正在...，可以填的有：
-        - 正在玩：`PLAYING`
+        - 正在玩：`GAME`
+        - 正在聽：`LISTENING`
         - 正在看：`WATCHING`
         - 競爭中：`COMPETEING`
         - 正在直播：`STREAMING`
