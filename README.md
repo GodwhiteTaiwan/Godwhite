@@ -6,7 +6,7 @@
 
 支援DC伺服器：
 
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/846992875236884521/widget.png?style=banner4"></a>
+<a href="https://discord.gg/29naPFYuR3"><img src="https://discord.com/api/guilds/846992875236884521/widget.png?style=banner4"></a>
 
 ## 安裝
 
